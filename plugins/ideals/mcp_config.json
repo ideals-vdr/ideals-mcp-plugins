@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ideals": {
+      "serverUrl": "https://gateway.idealsvdr.com/mcp",
+      "oauth": {
+        "clientId": "antigravity-mcp-client"
+      }
+    }
+  }
+}
