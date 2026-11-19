@@ -8,7 +8,7 @@
     "name": "Ideals",
     "url": "https://www.idealsvdr.com"
   },
-  "homepage": "https://www.idealsvdr.com",
+  "homepage": "https://github.com/ideals-vdr/ideals-mcp-plugins/tree/main/antigravity",
   "repository": "https://github.com/ideals-vdr/ideals-mcp-plugins",
   "keywords": ["data room", "vdr", "due diligence", "m&a", "documents", "legal", "q&a"],
   "suggestedPrompts": [
